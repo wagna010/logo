@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://raw.githubusercontent.com/wagna010/logo/main/preloader.js',
+        path: 'https://lottie.host/2aa0e244-4386-4146-a68b-f4799f1b5147/fVRl5Z71Za.json',
     });
 }
 
