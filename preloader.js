@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://wagna010.github.io/preloaderJSLottie/Tocai.json',
+        path: 'https://raw.githubusercontent.com/wagna010/logo/main/preloader.js',
     });
 }
 
